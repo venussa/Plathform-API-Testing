@@ -1,0 +1,48 @@
+@import '~@core/scss/base/pages/dashboard-ecommerce.scss';
+
+body{
+  background:#f5f5f5 !important;
+}
+
+a{
+  margin-left: 5px !important;
+  margin-right: 5px !important;
+}
+
+.container{
+  margin-top:50px;
+}
+
+.icon{
+  margin-right: 10px;
+}
+
+.breadcrumb{
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding:10px;
+  padding-left: 30px;
+  background: #f5f5f5;
+  border: 1px #ddd solid;
+}
+
+.box{
+  overflow: hidden;
+  overflow-x: auto;
+}
+
+.pagination{
+ margin-top: 10px !important;
+}
+
+.badges{
+  margin-right: 5px;
+}
+
+.loading{
+  padding: 20px;
+  text-align: center;
+  display: block;
+  width: 100%;
+  font-size: 17px;
+}
